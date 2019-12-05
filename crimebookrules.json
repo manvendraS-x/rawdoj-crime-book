@@ -103,6 +103,6 @@
       "typeOfCrime": "Vehicular",
       "description": "Hit n Run description",
       "bail": 3000
-    },
+    }
   ]
 }
