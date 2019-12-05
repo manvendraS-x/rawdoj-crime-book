@@ -1,20 +1,100 @@
 {
   "listOfRules": [
     {
-      "title": "Robbery",
-      "months": 10,
-      "fine": 300,
+      "title": "Assault on a Civilian",
+      "months": 15,
+      "fine": 2000,
       "typeOfCrime": "Major",
-      "description": "Robbery description",
-      "bail": 1500
+      "description": "Causing Bodily Enjury to civilian.",
+      "bail": 15000
     },
     {
-      "title": "Murder",
+      "title": "Assault on a Leo",
+      "months": 30,
+      "fine": 2500,
+      "typeOfCrime": "Major",
+      "description": "Causing Bodily Enjury to a police officer.",
+      "bail": 10000
+    },
+    {
+      "title": "Attempt of Murder of a Civilian",
+      "months": 30,
+      "fine": 3000,
+      "typeOfCrime": "Major",
+      "description": "A Suspect has tried to kill a civilian.",
+      "bail": 10000
+    },
+    {
+      "title": "Attempt of Murder of a Leo",
+      "months": 30,
+      "fine": 3000,
+      "typeOfCrime": "Major",
+      "description": "A Suspect has tried to kill a Leo.",
+      "bail": 10000
+    },
+    {
+      "title": "Murder of a Civilian",
+      "months": 60,
+      "fine": 10000,
+      "typeOfCrime": "Major",
+      "description": "A suspect has killed a civilian.",
+      "bail": 10000
+    },
+    {
+      "title": "Murder of a Leo",
+      "months": 60,
+      "fine": 10000,
+      "typeOfCrime": "Major",
+      "description": "A suspect has killed a Leo.",
+      "bail": 10000
+    },
+    {
+      "title": "Manslaughter",
+      "months": 15,
+      "fine": 10000,
+      "typeOfCrime": "Major",
+      "description": "A suspect has killed a Leo.",
+      "bail": 10000
+    },
+    {
+      "title": "Vehicle Manslaughter",
       "months": 20,
-      "fine": 500,
-      "typeOfCrime": "Minor",
-      "description": "Murder description",
-      "bail": 2000
+      "fine": 10000,
+      "typeOfCrime": "Major",
+      "description": "A suspect has killed a Leo.",
+      "bail": 10000
+    },
+    {
+      "title": "Kidnapping of a Civilian",
+      "months": 25,
+      "fine": 10000,
+      "typeOfCrime": "Major",
+      "description": "A suspect has kidnapped a civilian.",
+      "bail": 10000
+    },
+    {
+      "title": "Kidnapping of a Leo",
+      "months": 25,
+      "fine": 10000,
+      "typeOfCrime": "Major",
+      "description": "A suspect has kidnapped a Leo.",
+      "bail": 10000
+    },
+    {
+      "title": "Robbery of a Bank",
+      "months": 30,
+      "fine": 10000,
+      "typeOfCrime": "Major",
+      "description": "A suspect robbed a bank.",
+      "bail": 10000
+    },
+    {
+      "title": "Robbery of a Store/Jewellery Store",
+      "months": 30,
+      "fine": 10000,
+      "typeOfCrime": "Major",
+      "description": "A suspect has robbed a store or a jewellery store.",
+      "bail": 10000
     },
     {
       "title": "Hit n Run",
@@ -23,6 +103,6 @@
       "typeOfCrime": "Vehicular",
       "description": "Hit n Run description",
       "bail": 3000
-    }
+    },
   ]
 }
