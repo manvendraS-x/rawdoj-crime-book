@@ -1,0 +1,28 @@
+{
+  "listOfRules": [
+    {
+      "title": "Robbery",
+      "months": 10,
+      "fine": 300,
+      "typeOfCrime": "Major",
+      "description": "Robbery description",
+      "bail": 1500
+    },
+    {
+      "title": "Murder",
+      "months": 20,
+      "fine": 500,
+      "typeOfCrime": "Normal",
+      "description": "Murder description",
+      "bail": 2000
+    },
+    {
+      "title": "Hit n Run",
+      "months": 30,
+      "fine": 500,
+      "typeOfCrime": "Normal",
+      "description": "Hit n Run description",
+      "bail": 3000
+    }
+  ]
+}
