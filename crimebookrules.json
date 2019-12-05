@@ -12,7 +12,7 @@
       "title": "Murder",
       "months": 20,
       "fine": 500,
-      "typeOfCrime": "Normal",
+      "typeOfCrime": "Minor",
       "description": "Murder description",
       "bail": 2000
     },
@@ -20,7 +20,7 @@
       "title": "Hit n Run",
       "months": 30,
       "fine": 500,
-      "typeOfCrime": "Normal",
+      "typeOfCrime": "Vehicular",
       "description": "Hit n Run description",
       "bail": 3000
     }
