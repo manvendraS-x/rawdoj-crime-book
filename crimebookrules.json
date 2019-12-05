@@ -48,23 +48,7 @@
       "description": "A suspect has killed a Leo.",
       "bail": 10000
     },
-    {
-      "title": "Manslaughter",
-      "months": 15,
-      "fine": 10000,
-      "typeOfCrime": "Major",
-      "description": "A suspect has killed a Leo.",
-      "bail": 10000
-    },
-    {
-      "title": "Vehicle Manslaughter",
-      "months": 20,
-      "fine": 10000,
-      "typeOfCrime": "Major",
-      "description": "A suspect has killed a Leo.",
-      "bail": 10000
-    },
-    {
+     {
       "title": "Kidnapping of a Civilian",
       "months": 25,
       "fine": 10000,
@@ -94,6 +78,22 @@
       "fine": 10000,
       "typeOfCrime": "Major",
       "description": "A suspect has robbed a store or a jewellery store.",
+      "bail": 10000
+    },
+    {
+      "title": "Manslaughter",
+      "months": 15,
+      "fine": 10000,
+      "typeOfCrime": "Major",
+      "description": "A suspect has killed a Leo.",
+      "bail": 10000
+    },
+    {
+      "title": "Vehicle Manslaughter",
+      "months": 20,
+      "fine": 10000,
+      "typeOfCrime": "Major",
+      "description": "A suspect has killed a Leo.",
       "bail": 10000
     },
     {
