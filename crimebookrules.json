@@ -41,7 +41,7 @@
       "bail": 10000
     },
     {
-      "title": "Murder of a Leo",
+      "title": "Murder of a LEO",
       "months": 60,
       "fine": 10000,
       "typeOfCrime": "Major",
@@ -57,7 +57,7 @@
       "bail": 10000
     },
     {
-      "title": "Kidnapping of a Leo",
+      "title": "Kidnapping of a LEO",
       "months": 25,
       "fine": 10000,
       "typeOfCrime": "Major",
@@ -113,7 +113,7 @@
       "bail": 5000
     },
     {
-      "title": "Possession of Marijuana with Intent to distribute",
+      "title": "Possession of Marijuana with Intent to Distribute",
       "months": 25,
       "fine": 2000,
       "typeOfCrime": "Average",
@@ -202,11 +202,139 @@
     },
     {
       "title": "Reckless Endagerment",
-      "months": 20,
-      "fine": 2000,
+      "months": 10,
+      "fine": 1500,
       "typeOfCrime": "Average",
-      "description": "Suspect was fleeing and evading from a law enforcement officer.",
+      "description": "A Suspect has others in a significant amount of danger with no reagrad for others safety.",
       "bail": 5000
+    },
+    {
+      "title": "Refusing a Lawful Command",
+      "months": 10,
+      "fine": 1000,
+      "typeOfCrime": "Average",
+      "description": "Suspect is refusing to perform lawful command (eg, not allowing to do search after caught in crime).",
+      "bail": 5000
+    },
+    {
+      "title": "Fraud",
+      "months": 10,
+      "fine": 1000,
+      "typeOfCrime": "Average",
+      "description": "Suspect is scamming or has scammed another civilians.",
+      "bail": 5000
+    },
+    {
+      "title": "Bribery",
+      "months": 10,
+      "fine": 1000,
+      "typeOfCrime": "Average",
+      "description": "Suspect has offered money or valuable goods in exchange for a reduced sentence.",
+      "bail": 5000
+    },
+    {
+      "title": "Vandalism",
+      "months": 10,
+      "fine": 1000,
+      "typeOfCrime": "Average",
+      "description": "Suspect has done destroyed or damaged public or private property.",
+      "bail": 5000
+    },
+    {
+      "title": "Driving Under the Influence",
+      "months": 10,
+      "fine": 500,
+      "typeOfCrime": "Minor",
+      "description": "Suspect has been caught driving a vehicle while drunk or on drug.",
+      "bail": 3000
+    },
+    {
+      "title": "Reckless Driving",
+      "months": 10,
+      "fine": 500,
+      "typeOfCrime": "Minor",
+      "description": "Suspect is driving a vehicle in a way that endangers himself and the public.",
+      "bail": 3000
+    },
+    {
+      "title": "Joy Riding",
+      "months": 10,
+      "fine": 500,
+      "typeOfCrime": "Minor",
+      "description": "Suspect is driving a vehicle recklessly and they do not have proof of vehicle ownership.",
+      "bail": 3000
+    },
+    {
+      "title": "Driving Illegal Vehicle",
+      "months": 10,
+      "fine": 500,
+      "typeOfCrime": "Minor",
+      "description": "Suspect is driving a vehicle which lacks number plate.",
+      "bail": 3000
+    },
+    {
+      "title": "Verbal Threats of a Civilian",
+      "months": 10,
+      "fine": 500,
+      "typeOfCrime": "Minor",
+      "description": "Suspect is verbally threatening harm to a civilian (eg. When i get out i will kill you.",
+      "bail": 3000
+    },
+    {
+      "title": "Verbal Threats of an LEO",
+      "months": 10,
+      "fine": 500,
+      "typeOfCrime": "Minor",
+      "description": "Suspect is verbally threatening harm to a LEO (eg. When i get out i will kill you).",
+      "bail": 3000
+    },
+    {
+      "title": "Disturbing the Peace",
+      "months": 10,
+      "fine": 500,
+      "typeOfCrime": "Minor",
+      "description": "Suspect is causing excessively loud noise or engaging in fight.",
+      "bail": 3000
+    },
+    {
+      "title": "Destruction of State or Private Property",
+      "months": 10,
+      "fine": 500,
+      "typeOfCrime": "Minor",
+      "description": "Suspect has destroyed or damaged state or private property.",
+      "bail": 3000
+    },
+    {
+      "title": "Tresspassing",
+      "months": 10,
+      "fine": 500,
+      "typeOfCrime": "Minor",
+      "description": "Suspect has entered a property wihtout effective consent of owner.",
+      "bail": 3000
+    },
+    {
+      "title": "Obstruction of Justice",
+      "months": 10,
+      "fine": 500,
+      "typeOfCrime": "Minor",
+      "description": "Suspect was obstructing justice by blocking leos cars in a pursuit or not letting them do job.",
+      "bail": 3000
+    },
+    {
+      "title": "Public Intoxication",
+      "months": 10,
+      "fine": 500,
+      "typeOfCrime": "Minor",
+      "description": "Being Drunk in Public.",
+      "bail": 3000
+    },
+    {
+      "title": "Insult towards Civilians",
+      "months": 10,
+      "fine": 500,
+      "typeOfCrime": "Minor",
+      "description": "Being Drunk in Public.",
+      "bail": 3000
     },
     {
       "title": "Hit n Run",
