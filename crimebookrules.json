@@ -97,12 +97,116 @@
       "bail": 10000
     },
     {
-      "title": "Raghav",
+      "title": "Grand Theft Auto",
+      "months": 15,
+      "fine": 2000,
+      "typeOfCrime": "Average",
+      "description": "A suspect has been caught stealing vehicle.",
+      "bail": 5000
+    },
+    {
+      "title": "Hit And Run",
+      "months": 15,
+      "fine": 2000,
+      "typeOfCrime": "Average",
+      "description": "A suspect has hit a person with thier vehicle and driven away.",
+      "bail": 5000
+    },
+    {
+      "title": "Possession of Marijuana with Intent to distribute",
+      "months": 25,
+      "fine": 2000,
+      "typeOfCrime": "Average",
+      "description": "A suspect has been caught with 1 or more packs of Marijuana.",
+      "bail": 5000
+    },
+    {
+      "title": "Drug Trafficking of Class B",
+      "months": 20,
+      "fine": 2500,
+      "typeOfCrime": "Average",
+      "description": "A suspect has been caught with 20 or more packs of Marijuana.",
+      "bail": 5000
+    },
+    {
+      "title": "Drug Trafficking of Class C",
       "months": 10,
-      "fine": 1000,
-      "typeOfCrime": "Major",
-      "description": "A suspect has killed a Leo.",
-      "bail": 10000
+      "fine": 2000,
+      "typeOfCrime": "Average",
+      "description": "A suspect has been caught with 1 or more leaves of Cannabis.",
+      "bail": 5000
+    },
+    {
+      "title": "Possession of Narcotics",
+      "months": 20,
+      "fine": 2500,
+      "typeOfCrime": "Average",
+      "description": "A suspect has been caught with 1 pack of 28g of Bag Of Cocain.",
+      "bail": 5000
+    },
+    {
+      "title": "Possession of Narcotics",
+      "months": 15,
+      "fine": 2000,
+      "typeOfCrime": "Average",
+      "description": "A suspect has been caught with 1 or more leaves of Cocain.",
+      "bail": 5000
+    },
+    {
+      "title": "Drug Trafficking of Class A",
+      "months": 30,
+      "fine": 3500,
+      "typeOfCrime": "Average",
+      "description": "A suspect has been caught with 10 or more Bags of Cocain.",
+      "bail": 5000
+    },
+    {
+      "title": "Unlawful Discharge of Firearms",
+      "months": 30,
+      "fine": 3500,
+      "typeOfCrime": "Average",
+      "description": "A suspect has discharged his firearms unlawfully.",
+      "bail": 5000
+    },
+    {
+      "title": "Brandishing a Weapon in City Limits",
+      "months": 15,
+      "fine": 1500,
+      "typeOfCrime": "Average",
+      "description": "A suspect has their licensed firearm out within city limits.",
+      "bail": 5000
+    },
+    {
+      "title": "Possessing Weapon without License",
+      "months": 20,
+      "fine": 2000,
+      "typeOfCrime": "Average",
+      "description": "A suspect has been found possessing a weapon without license.",
+      "bail": 5000
+    },
+    {
+      "title": "Money Laundering",
+      "months": 20,
+      "fine": 2000,
+      "typeOfCrime": "Average",
+      "description": "A suspect has been found laundering/cleaning dirty money or crime related money.",
+      "bail": 5000
+    },
+    {
+      "title": "Fleeing and Evading",
+      "months": 20,
+      "fine": 2000,
+      "typeOfCrime": "Average",
+      "description": "Suspect was fleeing and evading from a law enforcement officer.",
+      "bail": 5000
+    },
+    {
+      "title": "Reckless Endagerment",
+      "months": 20,
+      "fine": 2000,
+      "typeOfCrime": "Average",
+      "description": "Suspect was fleeing and evading from a law enforcement officer.",
+      "bail": 5000
     },
     {
       "title": "Hit n Run",
