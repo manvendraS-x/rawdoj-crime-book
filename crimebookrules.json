@@ -97,6 +97,14 @@
       "bail": 10000
     },
     {
+      "title": "Raghav",
+      "months": 10,
+      "fine": 1000,
+      "typeOfCrime": "Major",
+      "description": "A suspect has killed a Leo.",
+      "bail": 10000
+    },
+    {
       "title": "Hit n Run",
       "months": 30,
       "fine": 500,
